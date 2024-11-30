@@ -1,0 +1,28 @@
+.sevices{
+    padding: 100px 0;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+.services h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 50px;
+}
+
+.services p{
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 50px;
+}
+
+.services .services-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.services .services-container .service{
+    width: 30%;
+}
