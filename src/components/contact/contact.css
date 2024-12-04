@@ -67,7 +67,7 @@
       gap: 30px;
     }
   }
-  
+      
   @media (max-width: 768px) {
     .contact {
       flex-direction: column;
