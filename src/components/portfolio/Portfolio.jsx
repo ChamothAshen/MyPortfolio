@@ -10,34 +10,35 @@ const items = [
     img: "/p1.jpg",
     title: "Weather App",
     desc: "This is a dynamic weather application built using React.js that allows users to get real-time weather updates for any location.",
-    link: "/",
+    link: "https://github.com/ChamothAshen/Weather-App.git",
   },
   {
     id: 2,
     img: "/p2.jpg",
     title: "Singhe Automotive Company (Pvt.) Ltd. Web-Based Vehicle Service Management System 🚗",
     desc: "We're excited to unveil our Y2S2 ITP project, a comprehensive web-based vehicle service management system developed using the MERN stack (MongoDB, Express.js, React, Node.js) for Singhe Automotive Company (Pvt.) ", 
-    link: "/",
+    link: "https://github.com/ChamothAshen/mern-vsms.git",
   },
   {
     id: 3,
     img: "/p3.jpg",
     title: "Supplement Store Application",
     desc: "This is an e-commerce application developed for a supplement store, allowing customers to browse, search, and purchase a variety of health and wellness products. The app features a modern and clean UI designed using React.js and Tailwind CSS for responsiveness",
-    link: "/",
+    link: "https://github.com/ChamothAshen/mern-supliment.git",
   },
   {
     id: 4,
     img: "/p4.jpg",
     title: "Event Venue App",
-    desc: "This app is designed to help users find and book event venues for various occasions, from corporate events to weddings and partiesThe app features a robust backend built with Java, providing users with a smooth and responsive experience."
+    desc: "This app is designed to help users find and book event venues for various occasions, from corporate events to weddings and partiesThe app features a robust backend built with Java, providing users with a smooth and responsive experience.",
+    link: "https://github.com/ChamothAshen/oop-project-use-java-.git"
   },
   {
     id: 5,
     img: "/p5.jpg",
     title: "Animated Portfolio Website",
     desc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure laboriosam tempore consectetur, atque maiores culpa quia, repellat id, dicta esse fugit neque voluptatem provident itaque voluptates minima. Repudiandae, provident hic.",
-    link: "/",
+    link: "https://github.com/ChamothAshen/MyPortfolio.git",
   },
 ];
 const imgVariants = {
